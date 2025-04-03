@@ -1,0 +1,8 @@
+/* Tailwind-like utility classes */
+.container { max-width: 1024px; margin: 0 auto; }
+.badge { display: inline-block; padding: 0.25rem 0.5rem; border-radius: 0.25rem; }
+.bg-blue-500 { background-color: #3b82f6; }
+.text-white { color: white; }
+.mx-1 { margin-left: 0.25rem; margin-right: 0.25rem; }
+.my-2 { margin-top: 0.5rem; margin-bottom: 0.5rem; }
+.p-4 { padding: 1rem; }
